@@ -1,16 +1,4 @@
-# allen
+A full flutter with OpenAi project.
+user can speak and respose is recorded and passed on to the chatgpt which can futher process it to show the answer should be given in text or an image is shown.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+if you want to run the app then you need to create an secret key in OpenAi else this project will not work 
